@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^0.22.0",
     "request": "^2.79.0",
-    "throttled-request": "^0.1.1"
+    "throttled-request": "^0.1.1",
+    "urlencode": "^1.1.0"
   }
 }
